@@ -1,0 +1,20 @@
+[
+    {
+        "watchId": "1",
+        "brand": "Nixon",
+        "model": "A105-001-00",
+        "detail": "Set to Stun. The Sentry Leather is an elegant timepiece with an adventurous side. Think black tie meets block party...",
+        "fullDetail": "Set to Stun. The Sentry Leather is an elegant timepiece with an adventurous side. Think black tie meets block party. The face pops with depth and detail, but with the solid stainless steel case, hardened mineral crystal, and waterproof rating of 100m, you don't have to worry about it not being able to hang in the real world.",
+        "price": "€160.00",
+        "image": "images/nixon_watch.png"
+    },
+    {
+        "watchId": "2",
+        "brand": "Nixon",
+        "model": "A1058-3053-00",
+        "detail": "Tried and True. Giving you the first-class experience all the way, the Porter Leather looks as good as it feels—in no particular...",
+        "fullDetail": "Tried and True. Giving you the first-class experience all the way, the Porter Leather looks as good as it feels—in no particular order. Its sleek profile and sophisticated design sit comfortably in any scenario, in other words, it takes any outfit up to the highest level.",
+        "price": " €125.00",
+        "image": "images/nixon_watch2.png"
+    }
+]
